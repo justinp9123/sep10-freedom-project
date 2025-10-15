@@ -1,7 +1,14 @@
 # Entry 1
-##### X/X/XX
+##### 10/15/25
 
-Text
+# Context
+
+
+# Edp
+
+# Skills
+
+# Next step
 
 [Next](entry02.md)
 
