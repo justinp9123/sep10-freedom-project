@@ -1,7 +1,7 @@
 # Entry 2
 November 11/3/2025
 
-Text
+# 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
