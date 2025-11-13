@@ -38,7 +38,7 @@ All of this research for softwares/apps was from a website called https://speech
 # EDP
 My current stage was to research on softwares/apps and hardwares that helps with the industry I chose for the freedom project, which is voice acting/over. For the plan being, I'm going to organize my research and sort them in order so that I can view things more easily in my blogs and for my freedom project, and from then on I'll finally be back on track with my work.
 # Skills
-I have grown a skill on reasearching, in the oas
+I have grown a skill on reasearching, in the past my skill in researching was not likely improved over the past years while doing projects. In this state of time my skill for researching has finally improved. At first I was thinking to myself where do I start, how do I start with this research? So in my mind I had this question, what software and hardwares do voice actors use? Google gave me a response with lists and a link that told me what software and hardware people use. It helped me clear my thoughts and questions, finally providing what I really needed for this freedom project.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
