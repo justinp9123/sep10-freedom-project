@@ -29,14 +29,16 @@ Makes your audio/ voice over feel better in quality and sound more clean.
 
 * __XLR Cable__
 Transmits high-quality sound signals while effectively canceling out some unwanted electrical interference or noises.
-Contains 2 signal pins to cary the same audio signal, one is positive and the other is a negative
+Contains 2 signal pins to carey the same audio signal, one is positive and the other is a negative
 Also contains 1 ground pin that acts like a shield
 
 # Sources
+All of this research for softwares/apps was from a website called https://speechify.com/blog/voice-over-apps/, in this website it has listed 7 apps that people use in the voice acting/over industry. It talked about how each app had a unique way people use them and how it can improve audio at its finest. This website has provided me with a lot of details to my main goal, which is to show how tech can help people in the field of voice acting/cover. It's very important to research everything on what I look up on to see whether it's real or fake.
 
 # EDP
-
+My current stage was to research on softwares/apps and hardwares that helps with the industry I chose for the freedom project, which is voice acting/over. For the plan being, I'm going to organize my research and sort them in order so that I can view things more easily in my blogs and for my freedom project, and from then on I'll finally be back on track with my work.
 # Skills
+I have grown a skill on reasearching, in the oas
 
 [Previous](entry01.md) | [Next](entry03.md)
 
