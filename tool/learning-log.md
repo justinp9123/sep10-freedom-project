@@ -10,7 +10,7 @@
 ### X/X/XX:
 * Text
 
-## Tool 2: **Free Code Camp**
+## Tool 2: **Aframe**
 
 ---
 
@@ -20,7 +20,7 @@
 ### X/X/XX:
 * Text
 
-## Tool 3 **Videos 1.1-1.4**
+
 
 
 
