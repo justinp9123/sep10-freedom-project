@@ -4,13 +4,13 @@
 
 ---
 
-### X/X/XX:
+### Grid Garden:
 * Text
 
 ### X/X/XX:
 * Text
 
-## Tool 2: **Aframe**
+## Tool 2: **CSS Variables**
 
 ---
 
